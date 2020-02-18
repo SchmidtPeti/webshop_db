@@ -1,2 +1,3 @@
-# webshop_db
-This is a webshop which I made on one of my private repos and its database chart.
+# Database structure for webshop
+My webshop link: http://underthepressure.herokuapp.com/
+The structure of database was recorded in image format.
